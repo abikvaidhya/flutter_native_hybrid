@@ -9,7 +9,7 @@
 </h4>
 <hr>
 
-### Purpose
+## Purpose
 
 Many companies (especially in Sweden) ship apps that mix Flutter with native modules. Recruiters and interviewers often ask:
 
