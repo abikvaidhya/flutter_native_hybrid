@@ -38,6 +38,8 @@ The chosen native feature is a Device Metrics dashboard (battery, memory, networ
 
   cupertino_icons: ^1.0.2<br/>
   get:<br/>
+  permission_handler: ^11.3.1</br>
+  shared_preferences:
 
 ## How to use
 
